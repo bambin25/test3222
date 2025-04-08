@@ -17,7 +17,7 @@ header {
   width: 1100px;
   height: 100px;
   margin: 0 auto;
-  background-color: gold;
+  /* background-color: gold; */
 }
 
 #logo {
@@ -25,15 +25,15 @@ header {
   width: 130px;
   height: 70px;
   margin: 10px 0 0 10px;
-  background-color: green;
+  /* background-color: green; */
 }
 
 nav {
   width: 740px;
   height: 30px;
   float: right;
-  background-color: pink;
-  margin: 30px 30px 0 0px;
+  /* background-color: pink; */
+  margin: 30px 0px 0 0px;
 }
 
 nav ul {
@@ -60,14 +60,14 @@ nav ul a:hover {
   width: 1100px;
   height: 450px;
   margin: 0 auto;
-  background-color: tomato;
+  /* background-color: tomato; */
 }
 
 section {
   width: 1100px;
   margin: 0 auto;
   height: 280px;
-  background-color: cyan;
+  /* background-color: cyan; */
 }
 
 article {
@@ -75,7 +75,7 @@ article {
   height: 145px;
   float: left;
   margin: 30px 10px;
-  background-color: yellow;
+  /* background-color: yellow; */
 }
 
 article h3 {
@@ -143,5 +143,5 @@ footer p {
   color: #666;
   margin: 40px 100px 0 0px;
   float: right;
-  background-color: pink;
+  /* background-color: pink; */
 }
